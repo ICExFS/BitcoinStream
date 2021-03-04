@@ -13,5 +13,7 @@ Discord Self-Bot aren't authorized, you can get your account banned
 
 # Neccessary Install 🐢
 ```
-pip install -r requirements.txt
+pip install discord 
+pip install asyncio 
+pip install requests
 ```
